@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm oursidle</h1>
-<h3 align="center">저는 풀스택 웹 개발 지망생입니다.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=#aafaf9&text=Hi,%I'm%Hyoli%Kim)
 
 - 🌱 I’m currently learning **Spring Framework**
 
