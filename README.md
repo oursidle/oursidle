@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#aafaf9&text=Hi,%I'm%Hyoli%Kim)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 - 🌱 I’m currently learning **Spring Framework**
 
