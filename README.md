@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hyoli&nbsp;Kim&fontColor=000000&fontSize=36&color=0:aafaf9,50:ffe9b6,100:fcaae8&fontColor=FD7272)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hyoli&nbsp;Kim&fontColor=000000&fontSize=36&color=0:aafaf9,50:ffe9b6,100:fcaae8&fontColor=000000)
 
 - 🌱 I’m currently learning **Spring Framework**
 
