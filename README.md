@@ -12,4 +12,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oursidle&show_icons=true&locale=en&layout=compact" alt="oursidle" /></p>
 
 
-https://img.shields.io/badge/{Java}-{#f6e58d}?style={flat-square}&logoColor={white}
+https://img.shields.io/badge/Java-#f6e58d?style=flat-square&logoColor=white
