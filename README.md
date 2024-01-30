@@ -12,3 +12,20 @@
 ![Spring](https://img.shields.io/badge/Spring-30336b?style=flat-square&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-95afc0?style=flat-square&logoColor=white)
 
+- 🌱 Since in **2023**
+- 📫 Email **ourskim722@naver.com**
+- 📋Project [Tripee](https://sysout.co.kr/tripee/)
+- 📋Project [MVC](https://sysout.co.kr/mvc/)
+- 🌷I like to **play the piano on my day off**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oursidle&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f78fb3&locale=en" alt="oursidle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oursidle&" alt="oursidle" /></p>
+
+
+
+
