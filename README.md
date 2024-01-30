@@ -11,19 +11,18 @@
 ![Ajax](https://img.shields.io/badge/Ajax-686de0?style=flat-square&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-30336b?style=flat-square&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-95afc0?style=flat-square&logoColor=white)
-
+<br><br>
 - 🌱 Since in **2023**
 - 📫 Email **ourskim722@naver.com**
-- 📋Project [Tripee](https://sysout.co.kr/tripee/)
-- 📋Project [MVC](https://sysout.co.kr/mvc/)
 - 🌷I like to **play the piano on my day off**
+<br><br>
+<h3 align="left">📋Projects I Did</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Tripee](https://github.com/jawon22/SemiProject5/assets/135007715/b83236f2-1376-4317-8c12-5c86b698b635)](https://sysout.co.kr/tripee/)[![MVClogo](https://github.com/LcsCho/kh12-final5/assets/135007715/b89943d4-1435-46d5-8f1a-efd98bf26032)](https://sysout.co.kr/mvc/)
+
+<h3 align="left">📍My State</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oursidle&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f78fb3&locale=en" alt="oursidle" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oursidle&" alt="oursidle" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oursidle&layout=compact)](https://github.com/oursidle/github-readme-stats)
