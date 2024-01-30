@@ -18,8 +18,10 @@
 <br><br>
 <h3 align="left">📋Projects I Did</h3>
 
-[![Tripee](https://github.com/jawon22/SemiProject5/assets/135007715/b83236f2-1376-4317-8c12-5c86b698b635)](https://sysout.co.kr/tripee/)[![MVClogo](https://github.com/LcsCho/kh12-final5/assets/135007715/b89943d4-1435-46d5-8f1a-efd98bf26032)](https://sysout.co.kr/mvc/)
+[![MVClogo](https://github.com/LcsCho/kh12-final5/assets/135007715/b89943d4-1435-46d5-8f1a-efd98bf26032)](https://sysout.co.kr/mvc/)
+[![Tripee](https://github.com/jawon22/SemiProject5/assets/135007715/b83236f2-1376-4317-8c12-5c86b698b635)](https://sysout.co.kr/tripee/)
 
+<br>
 <h3 align="left">📍My State</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oursidle&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=f78fb3&locale=en" alt="oursidle" /></p>
