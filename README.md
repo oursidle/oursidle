@@ -26,6 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oursidle&" alt="oursidle" /></p>
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oursidle&layout=compact)](https://github.com/oursidle/github-readme-stats)
