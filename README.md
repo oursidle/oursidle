@@ -14,7 +14,6 @@
 <br><br>
 - 🌱 Since in **2023**
 - 📫 Email **ourskim722@naver.com**
-- 🌷I like to **play the piano on my day off**
 <br><br>
 <h3 align="left">📋Projects I Did (Latest)</h3>
 
