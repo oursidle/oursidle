@@ -15,7 +15,7 @@
 - 🌱 Since in **2023**
 - 📫 Email **ourskim722@naver.com**
 <br><br>
-<h3 align="left">📋Projects I Did (Latest)</h3>
+<h3 align="left">📋Projects I Did (lastest)</h3>
 
 [![MVClogo](https://github.com/LcsCho/kh12-final5/assets/135007715/b89943d4-1435-46d5-8f1a-efd98bf26032)](https://sysout.co.kr/mvc/)
 [![Tripee](https://github.com/jawon22/SemiProject5/assets/135007715/b83236f2-1376-4317-8c12-5c86b698b635)](https://sysout.co.kr/tripee/)
